@@ -1,3 +1,9 @@
-body  
-backgroung-color :#fff;
-color: #2a2a2a;
+/* Применить стили к псевдоэлементу .box::before при ховере по элементу .box */
+.box:hover::before {
+  color: green;
+}
+
+/* Применить стили к псевдоэлементу .box::after при ховере по элементу .box */
+.box:hover::after {
+  color: tomato;
+}
