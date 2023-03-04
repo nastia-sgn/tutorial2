@@ -65,9 +65,9 @@
 // }
 // console.log('Лог після циклу');
 
-let counter = 0;
+// let counter = 0;
 
-while (counter < 10) {
-  console.log('counter: ', counter);
-  counter += 1;
-}
+// while (counter < 10) {
+//   console.log('counter: ', counter);
+//   counter += 1;
+// }
